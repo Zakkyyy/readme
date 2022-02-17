@@ -31,14 +31,14 @@ Supported by high-quality resources, we continue to provide the best services to
 
 ```markdown
 
-## TAX
-**Tax services for individual and corporate entities in every aspect.**
+TAX
+Tax services for individual and corporate entities in every aspect.
 
-## LEGAL
-**Legal services in scope of establishment, amendment, and liquidation of legal entity.**
+LEGAL
+Legal services in scope of establishment, amendment, and liquidation of legal entity.
 
-## ACCOUNTING
-**Bookkeeping and financial accounting services for business entity.**
+ACCOUNTING
+Bookkeeping and financial accounting services for business entity.
 
 
 (FREE CONSULTATION)
