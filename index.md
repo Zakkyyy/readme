@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Welcome to HnG Github
 
-You can use the [editor on GitHub](https://github.com/HnGConsulting/readme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+HARS & Groep Consulting is a management consulting firm that focuses on business acceleration and simplicity of administration. We assist both domestic and international enterprises with their business operations in Indonesia. In addition, for the purpose of national economic advancement, we also support MSME’s to expand their company scale.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tagline
 
-### Markdown
+“Simplified Your Business Problems”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **Values**	
+
+Trustworthy
+Comprehensive
+Client-Oriented
+
+## **Vision**
+
+To become a reputable business and management consultant in Indonesia, with a focus on simplicity and business growth.
+
+## **Mission**
+
+To provide the best consulting services for business affairs
+To provide guidelines for fulfilling the legal and tax obligations of business actors
+To provide comprehensive assistance to all business sectors
+
+
+
+
+### Our Service
+
+Supported by high-quality resources, we continue to provide the best services to all enterprises in Indonesia and even worldwide.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## TAX
+**Tax services for individual and corporate entities in every aspect.**
 
-- Bulleted
-- List
+## LEGAL
+**Legal services in scope of establishment, amendment, and liquidation of legal entity.**
 
-1. Numbered
-2. List
+## ACCOUNTING
+**Bookkeeping and financial accounting services for business entity.**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+(FREE CONSULTATION)
+[Contact](https://wa.me/62895384438282)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HnGConsulting/readme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [Our Website](https://hng.co.id/).
